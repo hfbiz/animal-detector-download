@@ -1,51 +1,51 @@
 {
-  "version": "v2.9.0",
-  "publishedAt": "2026-04-24T11:47:58Z",
+  "version": "v2.10.0",
+  "publishedAt": "2026-04-26T11:20:21Z",
   "builds": [
     {
       "app": "desktop",
       "platform": "windows",
-      "version": "v2.9.0",
-      "filename": "AnimalDetector-gui-windows-x64-v2.9.0.zip",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.9.0/AnimalDetector-gui-windows-x64-v2.9.0.zip",
-      "sizeBytes": 264706501,
-      "sha256": "5cd8172a1a914bab0614c829da2d0a454363ef4afe8f28f310fdf7dccf2609eb"
+      "version": "v2.10.0",
+      "filename": "AnimalDetector-gui-windows-x64-v2.10.0.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.10.0/AnimalDetector-gui-windows-x64-v2.10.0.zip",
+      "sizeBytes": 264707859,
+      "sha256": "ef356e8dac5e8a68f4ac7461527c67289a384555c2bc9e2575b49fb22ef009de"
     },
     {
       "app": "desktop",
       "platform": "macos",
-      "version": "v2.9.0",
-      "filename": "AnimalDetector-gui-macos-arm64-v2.9.0.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.9.0/AnimalDetector-gui-macos-arm64-v2.9.0.tar.gz",
-      "sizeBytes": 232892648,
-      "sha256": "f16aef1ca55b66a17f2aa68b02aea084e50bd254d1bfcf9ae44c93fd1dd36555"
+      "version": "v2.10.0",
+      "filename": "AnimalDetector-gui-macos-arm64-v2.10.0.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.10.0/AnimalDetector-gui-macos-arm64-v2.10.0.tar.gz",
+      "sizeBytes": 232893910,
+      "sha256": "6bc28e8c2cc7b4bc3fc4486fdee4be062ced3f4a5e41b098fb4f71936e209338"
     },
     {
       "app": "cli",
       "platform": "windows",
-      "version": "v2.9.0",
-      "filename": "animal-detector-cli-windows-x64-v2.9.0.zip",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.9.0/animal-detector-cli-windows-x64-v2.9.0.zip",
-      "sizeBytes": 186976459,
-      "sha256": "b891410858d8b5167cde648200455d92ac5f0403ce28b7e3dff55ed5a26e6a85"
+      "version": "v2.10.0",
+      "filename": "animal-detector-cli-windows-x64-v2.10.0.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.10.0/animal-detector-cli-windows-x64-v2.10.0.zip",
+      "sizeBytes": 186976472,
+      "sha256": "573311befd2ac69452888ddfda44d15a348f281d0a78e9a1db13b3d9a85a6e99"
     },
     {
       "app": "cli",
       "platform": "macos",
-      "version": "v2.9.0",
-      "filename": "animal-detector-cli-macos-arm64-v2.9.0.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.9.0/animal-detector-cli-macos-arm64-v2.9.0.tar.gz",
-      "sizeBytes": 176380279,
-      "sha256": "8759322c53dda8d8da7257c5ff22eb63620de37b3c801de08950287f7255d56f"
+      "version": "v2.10.0",
+      "filename": "animal-detector-cli-macos-arm64-v2.10.0.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.10.0/animal-detector-cli-macos-arm64-v2.10.0.tar.gz",
+      "sizeBytes": 176380089,
+      "sha256": "dd78c6e51c5b6cf8b553943f9dcd15ff3142eb4dd2aeff5d996e64394859f659"
     },
     {
       "app": "cli",
       "platform": "linux",
-      "version": "v2.9.0",
-      "filename": "animal-detector-cli-linux-x64-v2.9.0.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.9.0/animal-detector-cli-linux-x64-v2.9.0.tar.gz",
-      "sizeBytes": 389802515,
-      "sha256": "e1ae5a656f736c917fcbdf8f499e6f571ff4924b69ddbae6861e6b970d1d5065"
+      "version": "v2.10.0",
+      "filename": "animal-detector-cli-linux-x64-v2.10.0.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.10.0/animal-detector-cli-linux-x64-v2.10.0.tar.gz",
+      "sizeBytes": 389802661,
+      "sha256": "fd0335fcfea7abca967577c710c945fe2a177f67fc1f24696f781215aa96c6e0"
     }
   ]
 }
