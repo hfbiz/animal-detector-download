@@ -1,0 +1,51 @@
+{
+  "version": "v2.39.1-test",
+  "publishedAt": "2026-08-05T08:58:23Z",
+  "builds": [
+    {
+      "app": "desktop",
+      "platform": "windows",
+      "version": "v2.39.1-test",
+      "filename": "AnimalDetector-gui-windows-x64-v2.39.1-test.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.39.1-test/AnimalDetector-gui-windows-x64-v2.39.1-test.zip",
+      "sizeBytes": 394494798,
+      "sha256": "ddb5ed26136b901d8d0f7cdca85adce2210274c5338d4bbee6def68fb6353f8a"
+    },
+    {
+      "app": "desktop",
+      "platform": "macos",
+      "version": "v2.39.1-test",
+      "filename": "AnimalDetector-gui-macos-arm64-v2.39.1-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.39.1-test/AnimalDetector-gui-macos-arm64-v2.39.1-test.tar.gz",
+      "sizeBytes": 352188336,
+      "sha256": "590328c54aee3eaf4c09067976f536de89ca930be92f188dfe6d355e498660b6"
+    },
+    {
+      "app": "cli",
+      "platform": "windows",
+      "version": "v2.39.1-test",
+      "filename": "animal-detector-cli-windows-x64-v2.39.1-test.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.39.1-test/animal-detector-cli-windows-x64-v2.39.1-test.zip",
+      "sizeBytes": 314951216,
+      "sha256": "b92725e6287c2ee7093e610cbd4ab529c99222133e87501bcf0dfda27e43b8ae"
+    },
+    {
+      "app": "cli",
+      "platform": "macos",
+      "version": "v2.39.1-test",
+      "filename": "animal-detector-cli-macos-arm64-v2.39.1-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.39.1-test/animal-detector-cli-macos-arm64-v2.39.1-test.tar.gz",
+      "sizeBytes": 295716758,
+      "sha256": "3adde68ab2805c6e6a88735cd0118d869aa374d6a8007462ea774ded20bb35d9"
+    },
+    {
+      "app": "cli",
+      "platform": "linux",
+      "version": "v2.39.1-test",
+      "filename": "animal-detector-cli-linux-x64-v2.39.1-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.39.1-test/animal-detector-cli-linux-x64-v2.39.1-test.tar.gz",
+      "sizeBytes": 509048219,
+      "sha256": "75117d942d46941fe5d248290bb7bebd6daea5ddb6e9c2f9de2205c3d2b013ad"
+    }
+  ]
+}
