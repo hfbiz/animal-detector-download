@@ -1,8 +1,8 @@
-version: 2.41.14-test
+version: 2.41.15-test
 files:
-  - url: https://github.com/hfbiz/animal-detector-download/releases/download/v2.41.14-test/AnimalDetectorTest-Setup-v2.41.14-test.exe
-    sha512: 5rEDhsWCMspcuKUsIbMVg8dIrLfux3ujD7SlbL+KAHQIbbv9QtEeuVBeO4RFoqdKCUtOUj66N8Q0givJPlQmMg==
-    size: 444667120
-path: AnimalDetectorTest-Setup-v2.41.14-test.exe
-sha512: 5rEDhsWCMspcuKUsIbMVg8dIrLfux3ujD7SlbL+KAHQIbbv9QtEeuVBeO4RFoqdKCUtOUj66N8Q0givJPlQmMg==
-releaseDate: '2026-09-14T10:07:17.840Z'
+  - url: https://github.com/hfbiz/animal-detector-download/releases/download/v2.41.15-test/AnimalDetectorTest-Setup-v2.41.15-test.exe
+    sha512: 2R8M9E/6UMHh09TulBm00i8ZRGi1cDZ1Cs32E8GWIaU7v7OZlRFR8gmYTxrgSo7Np60etS359GHhSvhULr1ikA==
+    size: 444685096
+path: AnimalDetectorTest-Setup-v2.41.15-test.exe
+sha512: 2R8M9E/6UMHh09TulBm00i8ZRGi1cDZ1Cs32E8GWIaU7v7OZlRFR8gmYTxrgSo7Np60etS359GHhSvhULr1ikA==
+releaseDate: '2026-09-14T11:57:04.828Z'
