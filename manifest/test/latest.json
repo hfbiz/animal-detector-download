@@ -1,60 +1,60 @@
 {
-  "version": "v2.43.5-test",
-  "publishedAt": "2026-10-18T16:22:07Z",
+  "version": "v2.43.6-test",
+  "publishedAt": "2026-10-18T17:59:41Z",
   "builds": [
     {
       "app": "desktop",
       "platform": "windows",
-      "version": "v2.43.5-test",
-      "filename": "AnimalDetectorTest-Setup-v2.43.5-test.exe",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/AnimalDetectorTest-Setup-v2.43.5-test.exe",
-      "sizeBytes": 444813752,
-      "sha256": "b6de15553a45669ab7613d337ebcb21592c5905383f92cd3e73870680b48b196"
+      "version": "v2.43.6-test",
+      "filename": "AnimalDetectorTest-Setup-v2.43.6-test.exe",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/AnimalDetectorTest-Setup-v2.43.6-test.exe",
+      "sizeBytes": 444809552,
+      "sha256": "a38308fbc0688ba662076a66c53713607a8c92c96ef918ffd5091841c102074a"
     },
     {
       "app": "desktop",
       "platform": "windows",
-      "version": "v2.43.5-test",
-      "filename": "AnimalDetectorTest-portable-windows-x64-v2.43.5-test.zip",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/AnimalDetectorTest-portable-windows-x64-v2.43.5-test.zip",
-      "sizeBytes": 536590196,
-      "sha256": "9c859a02aa070b76d1c8b1adca525b25a774b6a76b2fa57e915abd940bc9a2f1"
+      "version": "v2.43.6-test",
+      "filename": "AnimalDetectorTest-portable-windows-x64-v2.43.6-test.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/AnimalDetectorTest-portable-windows-x64-v2.43.6-test.zip",
+      "sizeBytes": 536590150,
+      "sha256": "163ef1eec7f9a71c9158e08a2d7fa2894fb217f14d8b26d3d62d67005463cb8b"
     },
     {
       "app": "desktop",
       "platform": "macos",
-      "version": "v2.43.5-test",
-      "filename": "AnimalDetector-gui-macos-arm64-v2.43.5-test.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/AnimalDetector-gui-macos-arm64-v2.43.5-test.tar.gz",
-      "sizeBytes": 395827206,
-      "sha256": "7eb7848c37297a3ca316b1d9187a0fef5e3ad2af68ad1e4e8d0431904b342ece"
+      "version": "v2.43.6-test",
+      "filename": "AnimalDetector-gui-macos-arm64-v2.43.6-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/AnimalDetector-gui-macos-arm64-v2.43.6-test.tar.gz",
+      "sizeBytes": 395827197,
+      "sha256": "7a398fe96d9c66bf7330c7142a4eae79404fc13e1787361cb1148cf9218f3826"
     },
     {
       "app": "cli",
       "platform": "windows",
-      "version": "v2.43.5-test",
-      "filename": "animal-detector-cli-windows-x64-v2.43.5-test.zip",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/animal-detector-cli-windows-x64-v2.43.5-test.zip",
+      "version": "v2.43.6-test",
+      "filename": "animal-detector-cli-windows-x64-v2.43.6-test.zip",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/animal-detector-cli-windows-x64-v2.43.6-test.zip",
       "sizeBytes": 337548980,
-      "sha256": "b0141cf6b8f1debc880e08ada1e157c21847fed67288fb583016e3dd47fa09af"
+      "sha256": "bd1ef266a0bbf882b49ce1906e667a0fb947f901ac4efd0c3815c57c8b8b653b"
     },
     {
       "app": "cli",
       "platform": "macos",
-      "version": "v2.43.5-test",
-      "filename": "animal-detector-cli-macos-arm64-v2.43.5-test.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/animal-detector-cli-macos-arm64-v2.43.5-test.tar.gz",
-      "sizeBytes": 315161290,
-      "sha256": "a03a65b63986d84e560c1c2df42f71f16cf865e8d08cbba7af26da06140d54ba"
+      "version": "v2.43.6-test",
+      "filename": "animal-detector-cli-macos-arm64-v2.43.6-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/animal-detector-cli-macos-arm64-v2.43.6-test.tar.gz",
+      "sizeBytes": 315161817,
+      "sha256": "d4c9f026851586de4cff4ab1ed0bbd78b616b062e80f9b036596eaa64a2887d3"
     },
     {
       "app": "cli",
       "platform": "linux",
-      "version": "v2.43.5-test",
-      "filename": "animal-detector-cli-linux-x64-v2.43.5-test.tar.gz",
-      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.5-test/animal-detector-cli-linux-x64-v2.43.5-test.tar.gz",
-      "sizeBytes": 529380835,
-      "sha256": "ba04185526ac195c799f21a9a1e858749aa607ca7d3e0871d6819f895da5f2b9"
+      "version": "v2.43.6-test",
+      "filename": "animal-detector-cli-linux-x64-v2.43.6-test.tar.gz",
+      "url": "https://github.com/hfbiz/animal-detector-download/releases/download/v2.43.6-test/animal-detector-cli-linux-x64-v2.43.6-test.tar.gz",
+      "sizeBytes": 529380809,
+      "sha256": "f3adc2d9dbcf87846d30ef861c89cadc6e671ca85565e90e9ebfca6abebd1167"
     }
   ]
 }
