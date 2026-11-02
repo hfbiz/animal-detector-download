@@ -1,8 +1,8 @@
-version: 2.44.1
+version: 2.44.2
 files:
-  - url: https://github.com/hfbiz/animal-detector-download/releases/download/v2.44.1/AnimalDetector-Setup-v2.44.1.exe
-    sha512: mTKp69MVZTgcSowOQA8v9vWTC1qC/5GDR32XIbgw544IJboUH9zkGA0o2Y1kt04nPVukHuyDHgGQ0E28Wf0Wuw==
-    size: 444830624
-path: AnimalDetector-Setup-v2.44.1.exe
-sha512: mTKp69MVZTgcSowOQA8v9vWTC1qC/5GDR32XIbgw544IJboUH9zkGA0o2Y1kt04nPVukHuyDHgGQ0E28Wf0Wuw==
-releaseDate: '2026-11-02T20:49:40.266Z'
+  - url: https://github.com/hfbiz/animal-detector-download/releases/download/v2.44.2/AnimalDetector-Setup-v2.44.2.exe
+    sha512: PD4Fme+AIWNz3Rukr2vFwUHMc3+KVvRh1o/z0SyVMUeNBXOFqTnooiGkQ0vdCwc643lttBRG6qapR2uspFH57Q==
+    size: 444835704
+path: AnimalDetector-Setup-v2.44.2.exe
+sha512: PD4Fme+AIWNz3Rukr2vFwUHMc3+KVvRh1o/z0SyVMUeNBXOFqTnooiGkQ0vdCwc643lttBRG6qapR2uspFH57Q==
+releaseDate: '2026-11-02T21:44:50.620Z'
